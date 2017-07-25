@@ -1,0 +1,144 @@
+/*.face:nth-child(1){
+    background:url('../img/p1.png');
+}
+.face:nth-child(2){
+    background: url('../img/p2.png');
+}
+.face:nth-child(3){
+    background: url('../img/p3.png');
+}
+.face:nth-child(4){
+    background: url('../img/p4.png');
+}
+.face:nth-child(5){
+    background: url('../img/p5.png');
+}
+.face:nth-child(6){
+    background: url('../img/p6.png');
+}
+.face:nth-child(7){
+    background: url('../img/p7.png');
+}
+.face:nth-child(8){
+    background: url('../img/p8.png');
+}
+.face:nth-child(9){
+    background: url('../img/p9.png');
+}
+.face:nth-child(10){
+    background: url('../img/p10.png');
+}
+.face:nth-child(11){
+    background: url('../img/p11.png');
+}
+.face:nth-child(12){
+    background: url('../img/p12.png');
+}
+.face:nth-child(13){
+    background: url('../img/p13.png');
+}
+.face:nth-child(14){
+    background: url('../img/p14.png');
+}
+.face:nth-child(15){
+    background: url('../img/p15.png');
+}
+.face:nth-child(16){
+    background: url('../img/p16.png');
+}
+.face:nth-child(17){
+    background: url('../img/p17.png');
+}
+.face:nth-child(18){
+    background: url('../img/p18.png');
+}
+.face:nth-child(19){
+    background: url('../img/p19.png');
+}
+.face:nth-child(20){
+    background: url('../img/p20.png');
+}*/
+body{
+    /*perspective:1000px;*/
+    background: url('../img/bg.jpg') no-repeat;
+    background-size: 100%;
+}
+
+.container{
+    perspective: 408px;
+    margin:0 auto;
+    width:129px;
+
+}
+.box{
+    transform-style: preserve-3d;
+    height: 100%;
+
+}
+.face{
+    width:129px;
+    height:1170px;
+    position: absolute;
+    transform-style: preserve-3d;
+}
+
+/*.one{
+    transform: rotateY(0deg) translateZ( 408px);
+}
+.two{
+    transform: rotateY(18deg) translateZ( 408px);
+}
+.three{
+    transform: rotateY(36deg) translateZ( 408px);
+}
+.four{
+    transform: rotateY(54deg) translateZ( 408px);
+}
+.five{
+    transform: rotateY(72deg) translateZ( 408px);
+}
+.six{
+    transform: rotateY(90deg) translateZ( 408px);
+}
+.seven{
+    transform: rotateY(108deg) translateZ( 408px);
+}
+.eight{
+    transform: rotateY(126deg) translateZ( 408px);
+}
+.nine{
+    transform: rotateY(144deg) translateZ( 408px);
+}
+.ten{
+    transform: rotateY(162deg) translateZ( 408px);
+}
+.eleven{
+    transform: rotateY(180deg) translateZ( 408px);
+}
+.twelve{
+    transform: rotateY(198deg) translateZ( 408px);
+}
+.thirting{
+    transform: rotateY(216deg) translateZ( 408px);
+}
+.fourting{
+    transform: rotateY(234deg) translateZ( 408px);
+}
+.fifting{
+    transform: rotateY(252deg) translateZ( 408px);
+}
+.sixting{
+    transform: rotateY(270deg) translateZ( 408px);
+}
+.seventing{
+    transform: rotateY(288deg) translateZ( 408px);
+}
+.eighting{
+    transform: rotateY(306deg) translateZ( 408px);
+}
+.ninting{
+    transform: rotateY(324deg) translateZ( 408px);
+}
+.twenty{
+    transform: rotateY(342deg) translateZ( 408px);
+}*/
